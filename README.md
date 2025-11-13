@@ -67,6 +67,7 @@ Jonathan Gaffiot
 
 Sylvain Wallez
 Erwan Rougeux
+et d'autres
 
-TODO
+Anecdotes d'usage d'Home Assistant pour différents usages domotiques, vaguement utile ou drôles.
 
