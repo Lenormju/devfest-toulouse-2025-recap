@@ -49,9 +49,14 @@ Igor Laborie
 
 Les mêmes poncifs de ce qu'est Rust, et de ce qu'il peut faire. Très introductif.
 
-## [Talk] TODO
+## [Talk] Agile et DDD ...
 
-TODO
+... quand devs et métiers partagent enfin la même langue et les mêmes pratiques
+
+Communauté Agile Toulouse
+
+Pas vu, intéressé par le replay (s'il y en a eu un).
+
 
 ## [Talk] L'enfer des tests auto
 
